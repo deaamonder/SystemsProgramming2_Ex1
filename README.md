@@ -1,4 +1,8 @@
 Graphs and Algorithms in C++
+systems programming 2 at Ariel University 
+@author (deaa monder)
+deaamonzer20@gmail.com
+
 Overview
 
 This assignment involves creating a graph and implementing various algorithms to work with it, using C++.
